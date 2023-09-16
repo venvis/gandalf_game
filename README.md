@@ -28,4 +28,4 @@ pip3 install pyglet
 # Download and run the executable on Mac here:
 
 <br>
-<a href="https://drive.google.com/file/d/1f21iHJtNVzV9KBBmk0uuEOaaURzqUn67/view?usp=drive_link">
+https://drive.google.com/file/d/1f21iHJtNVzV9KBBmk0uuEOaaURzqUn67/view?usp=drive_link
