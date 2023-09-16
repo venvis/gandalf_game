@@ -1,4 +1,4 @@
-# gandalf_game
+# Gandalf Pygame
 
 Packages/Libraries used:
 
